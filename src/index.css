@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --un-sdg-goal-1: #e5243b;
+  --un-sdg-goal-2: #dda63a;
+  --un-sdg-goal-3: #4c9f38;
+  --un-sdg-goal-4: #c5192d;
+  --un-sdg-goal-5: #ff3a21;
+  --un-sdg-goal-6: #26bde2;
+  --un-sdg-goal-7: #fcc30b;
+  --un-sdg-goal-8: #a21942;
+  --un-sdg-goal-9: #fd6925;
+  --un-sdg-goal-10: #dd1367;
+  --un-sdg-goal-11: #fd9d24;
+  --un-sdg-goal-12: #bf8b2e;
+  --un-sdg-goal-13: #3f7e44;
+  --un-sdg-goal-14: #0a97d9;
+  --un-sdg-goal-15: #56c02b;
+  --un-sdg-goal-16: #00689d;
+  --un-sdg-goal-17: #19486a;
+}
